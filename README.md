@@ -99,7 +99,7 @@ This SQL-based CRM analysis provides actionable insights into sales efficiency, 
 
 ## 📄 Full Report
 
-[View Full CRM Analysis Report](Customer_Relationship_Management_Analysis_SQL.pdf)
+[View Full CRM Analysis Report](./Customer_Relationship_Management_Analysis_SQL.pdf)
 
 ## 📌 Repository Structure
 
