@@ -7,10 +7,10 @@ Performed end-to-end CRM data analysis using SQL Server to evaluate sales pipeli
 
 The project uses a relational CRM dataset consisting of four tables:
 
-- **sales_pipeline** (Fact Table – deal-level data)
-- **accounts** (Customer information)
-- **products** (Product hierarchy and series)
-- **sales_teams** (Sales agents, managers, regional offices)
+- [**sales_pipeline**](data/sales_pipeline.csv) (Fact Table – deal-level data)
+- [**accounts**](data/accounts.csv) (Customer information)
+- [**products**](data/products.csv) (Product hierarchy and series)
+- [**sales_teams**](data/sales_teams.csv) (Sales agents, managers, regional offices)
 
 The data models a real-world sales pipeline including deal stages, revenue, customer sectors, and sales hierarchy.
 
