@@ -107,7 +107,7 @@ This SQL-based CRM analysis provides actionable insights into sales efficiency, 
 customer-relationship-management-analysis-sql/
 │
 ├── README.md
-├── Customer_Relationship_Management_Analysis_SQL.pdf
+├── Customer_Relationship_Management_Analysis _ SQL.pdf
 ├── data/
 │   ├── sales_pipeline.csv
 │   ├── accounts.csv
