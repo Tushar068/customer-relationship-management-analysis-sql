@@ -115,5 +115,4 @@ customer-relationship-management-analysis-sql/
 │   ├── products.csv
 │   └── sales_teams.csv
 │
-└── sql/
-    └── CRM Project.sql
+└── CRM Project.sql
